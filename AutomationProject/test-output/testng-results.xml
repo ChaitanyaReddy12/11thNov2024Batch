@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-14T19:33:11 IST" name="Default suite" finished-at="2025-03-14T19:33:17 IST" duration-ms="6375">
+    <groups>
+    </groups>
+    <test started-at="2025-03-14T19:33:11 IST" name="Default test" finished-at="2025-03-14T19:33:17 IST" duration-ms="6375">
+      <class name="ExtentReports.ExtentReportExample2">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:ExtentReports.ExtentReportExample2@7c1e2a9e]" started-at="2025-03-14T19:33:10 IST" name="startTest" finished-at="2025-03-14T19:33:11 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:ExtentReports.ExtentReportExample2@7c1e2a9e]" started-at="2025-03-14T19:33:11 IST" name="launchBrowser" finished-at="2025-03-14T19:33:13 IST" duration-ms="2131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:ExtentReports.ExtentReportExample2@7c1e2a9e]" started-at="2025-03-14T19:33:13 IST" name="launchURL" finished-at="2025-03-14T19:33:15 IST" duration-ms="2484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="loginToOrangeHRM()[pri:1, instance:ExtentReports.ExtentReportExample2@7c1e2a9e]" started-at="2025-03-14T19:33:15 IST" name="loginToOrangeHRM" finished-at="2025-03-14T19:33:17 IST" duration-ms="1576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToOrangeHRM -->
+        <test-method signature="clickLogout()[pri:2, instance:ExtentReports.ExtentReportExample2@7c1e2a9e]" started-at="2025-03-14T19:33:17 IST" name="clickLogout" finished-at="2025-03-14T19:33:17 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogout -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:ExtentReports.ExtentReportExample2@7c1e2a9e]" started-at="2025-03-14T19:33:17 IST" name="endTest" finished-at="2025-03-14T19:33:17 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ExtentReports.ExtentReportExample2@7c1e2a9e]" started-at="2025-03-14T19:33:17 IST" name="closeBrowser" finished-at="2025-03-14T19:33:17 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ExtentReports.ExtentReportExample2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
